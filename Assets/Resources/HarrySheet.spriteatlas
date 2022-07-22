@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HarrySheet
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 5abed2ce6a490d5408c76a181fc11514, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 9082750857066642435, guid: 5abed2ce6a490d5408c76a181fc11514, type: 3}
+  - {fileID: 695198305647828188, guid: 5abed2ce6a490d5408c76a181fc11514, type: 3}
+  - {fileID: 8419332329979928272, guid: 5abed2ce6a490d5408c76a181fc11514, type: 3}
+  - {fileID: -9175467956019294376, guid: 5abed2ce6a490d5408c76a181fc11514, type: 3}
+  - {fileID: -2516482432468714783, guid: 5abed2ce6a490d5408c76a181fc11514, type: 3}
+  - {fileID: 6297597127044689374, guid: 5abed2ce6a490d5408c76a181fc11514, type: 3}
+  - {fileID: 4353094088590823687, guid: 5abed2ce6a490d5408c76a181fc11514, type: 3}
+  - {fileID: -6600943684085192170, guid: 5abed2ce6a490d5408c76a181fc11514, type: 3}
+  - {fileID: 8086271686362754500, guid: 5abed2ce6a490d5408c76a181fc11514, type: 3}
+  - {fileID: 1082192270873741124, guid: 5abed2ce6a490d5408c76a181fc11514, type: 3}
+  - {fileID: 6909780118809598029, guid: 5abed2ce6a490d5408c76a181fc11514, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - hp 1_10
+  - hp 1_9
+  - hp 1_8
+  - hp 1_7
+  - hp 1_6
+  - hp 1_5
+  - hp 1_4
+  - hp 1_3
+  - hp 1_2
+  - hp 1_1
+  - hp 1_0
+  m_RenderDataMap: {}
+  m_Tag: HarrySheet
+  m_IsVariant: 0

@@ -1,0 +1,25 @@
+﻿53 24
+#############tttttttttttttttttttttttttttttttttttttttt
+#..j...j....#tttt############################tttttttt
+#...s...s...######....s...w........w...c....#tttttttt
+#.t..a......c....l....g.....ttttt....w...f..#tttttttt
+#.t.s..a....######....j..g..tvvvt.....a..f..#tttttttt
+#dt...s.....#tttt#.t.s......ttttt..f........#tttttttt
+#wt....c.f..#tttt#wt....f...t.....a...j..j..#########
+#kt.g....f..#tttt#kt..j...ttt..f...c.....j..l..k...w#
+#####..######tttt##################################.#
+    #dd#########ttt#k#tttttttvvvvvvvvvtttttttttttt#g#
+    #wwl.......#ttt#d#tttttttvvvvvvvvvtttttttttttt#.#
+    #tt#######.# ###d##########ttttttttttttttttttt#.#
+  ###tt####tt#j# #.t.t....j...#vvvvvvv#######ttttt#.#
+  #ttddttt#tt#c# #.tft.w..j.f.#vvvvvvv#ddCdd#ttttt#j#
+  #tt.sttt#tt#a# #...s.s....f.#########jnjjj#ttttt#.#
+  #....g..#tt#.# #j.......a...lj.......wwwww#ttttt#.#
+  #.k.s.a.#tt#.# #....s.......###############ttttt#.#
+  #f......#tt#.# #..g.....cf..#ttttttttttttttttttt#a#
+  #.....p.#tt#w# #g.a....w.f..#tttttvvvvvvvvvvvvtt#.#
+  ####l####tt#.########l#######tttttvvvvvvvvvvvvtt#c#
+     #.#ttttt#......k...#ttttttttttttttttttttttttt#.#
+     #.############################################.#
+     #.....a............j.........................w.#
+     ################################################

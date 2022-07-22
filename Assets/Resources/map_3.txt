@@ -1,0 +1,31 @@
+﻿69 30
+##############           ####################  #############          
+#p...j....ffk#           #....w...s...d..a..#  #.......w..k#         
+#...d..j..fff#############.########.........####..j.......a#         
+#w.a..ttt...alajjj..ww..g..#      #vvbbvvvvvvvvvvvvvvvvbbvv#         
+############################      #vvbbvvvvvvvvvvvvvvvvbbvv#         
+                                  #vvbbvvvvvvvvvvvvvvvvbbvv#         
+             ###################  #vvbbbbbbbbbbbbbbbbbbbbvv#         
+             #ttttttttttttktttt#  #vvbbbbbbbbbbbbbbbbbbbbvv#         
+             #ttttttt...f...sg.#  #vvvvvvvvvbbbvvvvvvvvvvvv#         
+##############...vvv.d..f...a..#  ###########l##############         
+#...k.ttt....#...vvv......s....#  #         #.#                      
+#...k.a...s..l...vvv...a....d..##############.#                      
+##############...s...j..........b....j..a..c..#                      
+             #tttt....d..c..s...###############                         
+             #tttt...a...w..j...#                                                   
+             ###########ll#######                                    
+                       #..#                                          
+                       #..#####################                      
+########################....a...c...s....f....#                       
+#fffff....aj.....d....j#o###############.....########################
+#ffNffd...cc...gg....tt..tttt......g.aa#..jj..www....tttttttvvvvv.k.#
+#fffffd......w.....dd...jj......ttt....#.....a.......tttttttvvvvvbvv#
+#dddddd.........ttttttttttttt...ttt....#ttttt........tttttttvvvvvbvv#
+#...ss...a..j...ttttttttttttt...ss...a.#....at.gg...j...a...bbbbbbvv#
+#.g..j....d.....tttvvvvv.......g...j...#l############################
+#.g..c...d......tttvvvvv...ww.....jj...#.#                           
+#.g..a...ss.....tttbbbbb.....c...ttt..d#a#                           
+#.n.......dfd...ttabvvvv...ss...a...dd.#c#                           
+#...gg...jj.....ttbbvvvv....j..a..g..a..j#                           
+##########################################                           
